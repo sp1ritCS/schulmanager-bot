@@ -1,1 +1,1 @@
-# schulmanager-bot
+# Schulmanager Bot
